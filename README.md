@@ -1,2 +1,2 @@
 # Tímaverkefni 3
-Kristján Ómar Eggertsson
+Höfundur: Kristján Ómar Eggertsson
