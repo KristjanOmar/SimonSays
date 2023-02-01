@@ -9,3 +9,6 @@ Höfundur: Kristján Ómar Eggertsson
 
 ## Myndband af virkni lokafurðar
 [![Myndband af spilun](https://img.youtube.com/vi/BqvU9YI1G9M/0.jpg)](https://www.youtube.com/watch?v=BqvU9YI1G9M)
+
+## Hönnunarteikning af kassa
+![Mynd af lóðun](https://github.com/KristjanOmar/SimonSays/blob/main/Kristján_SimonSays.svg?raw=true)
